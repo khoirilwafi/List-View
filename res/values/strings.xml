@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">list view</string>
+    <string name="pesan_tmp">-</string>
+    <string name="nama_tmp">-</string>
+    <string name="psn">-</string>
+    <string name="pembuat">Muhammad Khoiril Wafi</string>
+
+    <string-array name="nama">
+        <item>budi</item>
+        <item>cahyo</item>
+        <item>andi</item>
+        <item>wahyu</item>
+        <item>dony</item>
+        <item>sinta</item>
+        <item>dodi</item>
+        <item>sulaiman</item>
+        <item>ganang</item>
+        <item>dewa</item>
+    </string-array>
+
+    <string-array name="pesan">
+        <item>hallo selamat pagi</item>
+        <item>hallo selamat siang</item>
+        <item>hallo selamat pagi</item>
+        <item>pagi ...</item>
+        <item>hallo selamat pagi</item>
+        <item>selamat pagi</item>
+        <item>hello from here</item>
+        <item>hallo selamat pagi</item>
+        <item>hallo selamat sore</item>
+        <item>hai</item>
+    </string-array>
+
+    <array name="foto">
+        <item>@drawable/borobudur</item>
+        <item>@drawable/prambanan</item>
+        <item>@drawable/monumen_nasional</item>
+        <item>@drawable/garuda_wisnu_kencana</item>
+        <item>@drawable/gereja_katedral</item>
+        <item>@drawable/masjid_agung_demak</item>
+        <item>@drawable/masjid_menara_kudus</item>
+        <item>@drawable/keraton_surakarta</item>
+        <item>@drawable/kelenteng_sam_po_kong</item>
+        <item>@drawable/gedung_sate</item>
+    </array>
+
+</resources>
